@@ -1,0 +1,45 @@
+cmd 
+
+#python --version
+
+--------------------------------------------
+print(): 
+ 
+ in python print is an inbuilt function which is used to display 
+ appropriate message on console screen.
+
+ syntax:
+
+  print("message")
+
+  note: there is not need to write semicolon at the end sentence.
+-----------------------------------------------------------------
+input() :
+    input is a function which is used to accept dynamic value.
+
+    syntax : input(prompt)
+-----------------------------------------------------------------
+variable : variable is a name which can store a value.
+
+ in python there is no need to declare any variable.
+
+-----------------------------------------------------------
+datatype: 
+ which type of value store in a variable its called data type.
+          
+                   values 
+                     |
+                     V
+ numeric                            characters
+
+ int                                   chr
+ float                                 str(one or more character)
+
+ bool : True/False    
+------------------------------------------------------------ 
+typecasting : 
+   convert one datatype value into another data type.
+
+   e.g., int(value)
+---------------------------------------------------------   
+
