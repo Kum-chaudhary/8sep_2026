@@ -1,0 +1,17 @@
+collection is a group of elements which is access multiple data types.
+
+there are mainly 4 types of collection :
+
+       1) list
+       2)tuple
+       3)set
+       4)dictionary
+
+1) List : list is a most powerful data type of collection which
+ is represent by [] braces.
+
+ list is a mutable data type.
+
+ we can change it value after creation.
+
+ e.g., example = []      
