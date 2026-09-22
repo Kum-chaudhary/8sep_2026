@@ -14,4 +14,31 @@ there are mainly 4 types of collection :
 
  we can change it value after creation.
 
- e.g., example = []      
+ e.g., example = []  
+
+----------------------------------------------------------------------------------------------------------
+1) remove(): when we want to remove specific element from the existing list
+
+  syntax: 
+   list.remove(element)
+
+2)pop():
+       it will remove all last element from the list  
+       by default remove all last element from the list.
+
+       syntax: list.pop(element)
+
+  pop(index)  : when we want to remove element from specific index position   
+
+     syntax: list.pop(index)   
+
+3)clear():
+   when we want to remove all elements from the list 
+
+    syntax: 
+      list.clear(index)
+
+4) del()
+ del is a keyword which is use to delete list variable from the memory.                
+  syntax :
+    list.del()
