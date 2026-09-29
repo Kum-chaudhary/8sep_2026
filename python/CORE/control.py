@@ -42,7 +42,7 @@ if age >= 18 :
 
 num = int(input("Enter the number:"))
 if num>=50:
-    print("number is abouve 50")
+    print("number is above 50")
 else:
     print("nuber is below 50")   
 
