@@ -1,0 +1,68 @@
+Function : Function is a block of code 
+         that code we can use again and again.
+
+         Function mainly use to reduce code.
+
+         function provide reusability.
+
+         using of function we can save our time.
+
+    in python there are 2 types of function :
+        1) Built-in Function
+        2) user define function
+
+----------------------------------------------------------------------
+
+1) Built-in Function :
+     which is predefined by python 
+      e.g., print(), input(), len()..,
+
+2) user - define Function:
+     user create function as per requirement.
+
+     there are 2 steps to create user define function :
+
+       steps 1 : function defination 
+
+       syntax:   def <funname>():
+                  block of code
+
+       steps 2:   function calling
+
+        syntax :   <funname>()        
+
+---------------------------------------------------------
+Function Categories :
+
+there are 4 types of function Categories :
+
+1) function without parameter and function without return type.
+2) function without parameter and function with return type.
+3) function with parameter and function without return type.
+4) function with parameter and function with return type.
+
+--------------------------------------------------------
+lambda function :
+        function without any name which is known as anonymous 
+        function its called lambda function.
+
+syntax:
+      lambda arguments : expression
+
+lambda function which is create by lambda keywords.
+
+at time we can execute only 1 statement.
+-------------------------------------------------------
+map : map is a inbuit function in python which is used to 
+map each element and return as a iterator 
+
+syntax : map(function,iterator)
+---------------------------------------------------------
+filter : when we want to fetch records from specific list 
+or iterator and convert to back to iterator.
+
+in a simple language we can say that we can apply condition on each 
+element and after fullfill that condition we can put in specific iterator.
+
+   syntax :
+      = filter(function,iterator) 
