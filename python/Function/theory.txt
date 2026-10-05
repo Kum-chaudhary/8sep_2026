@@ -66,3 +66,17 @@ element and after fullfill that condition we can put in specific iterator.
 
    syntax :
       = filter(function,iterator) 
+
+----------------------------------------------------------------
+4)*args :
+      arguments : tuple as a parameter.
+
+5) **kwargs : key with arguments or dictionary as a parameter.     
+
+6) iterator : iterate each element one by one from iterator object.
+
+     using of next() function method we csn access one by one element.
+
+--------------------------------------------------------------------
+generator : generator is a special function which is iterate 
+each element by yield keyword.
