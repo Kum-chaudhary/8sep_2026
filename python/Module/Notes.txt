@@ -1,0 +1,57 @@
+Module is a collection of function , classes, variable  and many more using of Module
+we can import any where in folder.
+
+module which is provide reausability
+
+using of module we can reduce our code.
+
+there are mainly 3 types of modules.
+
+1) built - in module
+2) user - define module
+3) third party module
+
+---------------------------------------------------------------
+1) built - in module :
+   which is predefined by python which we can use as per our need.
+
+   e.g., 
+        random
+        math
+        os
+        datetime
+        etc...
+
+------------------------------
+1)import random
+2)import math:pi,pow,floor,ceil,factorial
+3)import os :mkdir(),getcwd(),listdir(),
+chdir(),mkdirs(),rename()
+4)import datetime : now,today
+
+1)os.mkdir("HEllo") 
+create directory
+
+2)os.getcwd() 
+current working directory
+
+3)chdir("")path
+change directory
+
+4)listdir()
+present directory
+
+5)mkdirs()
+multiple folder // nested folder
+
+6) rename()
+ file name change
+---------------------------------
+package : 
+package is a collection of module files.
+
+using of package we can acess module 
+anywhere in project.
+
+in python using of ___init__.py
+we can create my blank folder as package.

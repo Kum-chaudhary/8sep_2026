@@ -1,0 +1,71 @@
+Class :
+      Class is a user define data type which is used to contain 
+      similar and dis-similar data.
+
+      syntax:
+            class <classname> :
+               member function
+
+----------------------------------------------------------------
+Object :
+      object is an instance or variable of class object which is 
+      represent current class properties.
+
+      syntax:
+          classname  <objectname>
+
+-----------------------------------------------------------------
+Method vs Function :  
+
+Function : 
+        Function is a block of code that code are used to again and 
+        again using of function we can reduce our code and we can save
+        our development time.
+
+        And Functions are independent we can call anywhere inside the 
+        code.
+
+Method :
+        method are same like function same we can store block of
+        code.
+
+        we can reduce our code but methods are dependent on object
+        of class.
+
+        in a simple language we can say that method call inside the
+        class function call outside the class.
+
+------------------------------------------------------------------
+Self :
+      self is keyword which is represent current class properties.
+
+      when we want to access any properties of class we have to pass
+      self parameter in function.
+
+      syntax :
+           def funname(selfkeyword):
+
+               block of code
+
+========================================================================
+Constructor:  
+  in python there is no such keyword like constructor constructor is a special 
+  member function which is invoke automatically whenever we create object of class.
+
+  constructor is a special member function which is define in a public.
+
+  in python most powefull concept is constructor but in python 
+  using of ___init__() we can achive functionality of constructor.
+
+=======================================================
+difference between ___init__() and ___init__.py file
+
+___init__()  : 
+     this is represent as a constructor it can invoke automatically 
+     whenever we carete object of class.
+
+___init__.py  :
+     this file represent current folder as a package.
+     this file does not contain any context this is blank file.
+     
+          
