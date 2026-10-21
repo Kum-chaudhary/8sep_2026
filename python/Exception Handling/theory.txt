@@ -1,0 +1,72 @@
+whenever we create a program at that time due to some certain situation
+or event occur and it distrurb the normal flow of program its called exception.
+
+exception :
+    in a simple language we can say that it break the excecution
+    flow of program.
+
+to handle this kind of exception is known as exception handling.
+
+-----------------------------------------------------------
+exception handling:
+
+  try and except block 
+
+  try block which is used to contain error code
+
+  except block : which is represent actually exception and specific
+  error code.
+
+  syntax:
+    
+    try :
+     error code 
+
+    except :
+    error handling code here // 
+
+
+   1) try,except,ZeroDivisionError,ValueError,KeyError,
+   IndexError,FileExistError,sys.Exc_info()[0],[1]
+
+-----------------------------------------------------
+Type's of Exception:
+
+there are mainly 2 types of exception are there
+
+       1) built-in Exception
+       2) userDefine Exception
+
+1) built-in Exception :
+      TypeError()
+      ValueError()
+      ZeroDevisionError()
+      IndexNotFoundError()
+      userdoesNotExist()
+      .
+      .
+
+
+2) userDefine Exception :
+    which is created by user for own purpose.
+
+    to create own excecution we have to create class first and
+    inherit from Exception class.      
+
+-------------------------------------------------------------
+Try : 
+    which is contain Error Code .
+
+Except : 
+    block contain error handling part
+
+Else :
+    only Execute when there is no error occurs in program.
+
+Finally :
+    always Execute.
+
+NOTE : one program can have more than 1 exeption but at a time 
+       we can handle only one exeption.
+
+---------------------------------------------------------------

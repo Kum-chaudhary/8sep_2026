@@ -1,0 +1,16 @@
+File Handling :
+
+   when we want to create or read file using of python its called 
+   file Handling 
+
+   file Handling this is ost powerfull concept of python programming 
+   language.
+
+   there are main 4 different mode in python to access or modify
+   file.
+
+   r : read mode
+   w : write mode
+   a : append mode
+   x : create mode
+   

@@ -1,0 +1,19 @@
+
+-----------------------------
+
+2026-10-14 16:27:18.669403
+
+ Name :kumkum
+ age :21
+ gender :female
+ contact :9081487564
+ Vaccination status :yes
+-----------------------------
+
+2026-10-14 16:28:22.822369
+
+ Name :mittal
+ age :20
+ gender :female
+ contact :6754342367
+ Vaccination status :yes
