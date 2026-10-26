@@ -67,5 +67,101 @@ ___init__()  :
 ___init__.py  :
      this file represent current folder as a package.
      this file does not contain any context this is blank file.
+---------------------------------------------------------------------          
+3) Encapsulation :
+       Encapsulation is a most powerfull concept of python 
+       which is used to store similar and dis- similar data 
+       elements in single entity.
+
+       Encapsulation which is behave like capsule.
+
+       which is provide two things 
+            1) getter and setter methods
+            2) private member
+
+     using of Encapsulation we can create getter and setter
+     methods and we can define member as private.
+
+Encapsulation provide data hiding using of Encapsulation 
+we can prevent records from outside direct access.
+
+in python using of  __(double userscore)
+we can prevent records and make it private member.
+
+Encapsulation in python does not provide fully private but 
+yes using of  __(double Underscore) we csn make private 
+member and prevent from outside the world.
+---------------------------------------------------------------
+4) Inheritence :
+    Inheritence is a most powerfull concept of python.
+
+    Inheritence provide reausability.
+
+    using of Inheritence we can reduce our code.
+    and save developed time.
+
+    there are mainly 5 types of Inheritence :
+
+  i) single level Inheritence :
+
+     one class derived properties of another class its called 
+     single level Inheritence.
+
+        class Parent 
+             |
+             V 
+        child class       
+
+    ii) Multi level Inheritence :
+     
+     one class derived properties from another class and extended
+     level of single level Inheritence we can say multi level Inheritence.
+
+      syntax : 
+
+          class a
+            |
+            V 
+          class b 
+            |
+            V 
+          class c 
+
+    Class A :  (parent class , or super class, base class) 
+    class B :  (child class , or sub class , Derived class)
+
+
+    iii) Multiple Inheritence :
+
+      one child class can have more than 1 parent class 
+
+         A      B 
+         |      |
+         --------
+             C          
+
+=====================================================================
+5) abstraction : 
+            abstraction which is most powerfull concept of oop.
+            which is mainly use for hide implementation.
+
+ abstraction which is represent only few information not allowcated
+ background information.
+
+ using of abstraction we can represent only those information which is usefull.
+
+ using of Inheritence it does not provide data hiding between present  and child
+ but using of abstraction we can create data hiding between Multiple
+ childs.
+
+which is represent by ABC class.
+
+whenever we want to perform abstraction concept we have to use ABC class
+and abstract method.
+
+using of ABC class we can Inherit properties of ABC class
+and apply abstraction on specific class.
+
+
      
           
