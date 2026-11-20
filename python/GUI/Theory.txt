@@ -1,0 +1,7 @@
+GUI : GRAPHICAL USER INTERFACE
+CLI : COMMAND LINE INTERFACE
+
+technically CLI is Faster Than GUI.
+-----------------------------------------------------------------
+GUI : in python using of tkinter module we can create 
+GUI based application.
