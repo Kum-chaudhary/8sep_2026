@@ -161,6 +161,98 @@ and abstract method.
 
 using of ABC class we can Inherit properties of ABC class
 and apply abstraction on specific class.
+------------------------------------------------------------------------
+6) Polymorphism :
+    poly means many and morphism means forms.
+
+    one named methods has different forms its called 
+    Polymorphism.
+
+    Polymorphism which is derived to greek word.
+
+    there are mainly 2 type's of Polymorphism :
+
+      1) method overloading
+      2) method overriding
+
+  => compile time  polymorphism 
+  and run time polymorphism
+
+=> method overloading :
+   one class can have same name methods with different argument 
+   its called method overloading.
+
+=> method overriding :
+   when parent and child both have same name method and same name
+   argument its called overriding.
+
+   in python method overriding concept workling perfectly.
+
+   and as wll as we can perform constructor overriding.
+
+
+==============================================================
+7) Aggregation :
+   Aggregation is a most powerfull concept of relationship between two independent
+   class.
+
+   one class contain reference of another class object and which can access
+   properties of that class.
+
+   in a simple language we can say that
+
+   Inheritence provide IS - A relationship 
+   and Aggregation provide HAS - A relationship.
+
+   parent child relationship connected which call
+   is a relationship.
+
+   teacher and department connected with has a relationship.
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+
+Magic Method :
+--------------
+ in python magic method are special methods 
+which have prefix and postfix __(double underscore).
+
+in simple language we can say that special method and in python 
+we call it as a dunder method.
+
+dunder methods means double underscore methods.
+
+1) ___init__():
+  which is mainly use as a constructor.
+
+  whenever we create object of class it invoke automatically.
+
+  main meaning of ___init__ means initilization 
+  of object.
+
+2) __str__():
+
+ which is used to represent any class object as a string format.
+
+ syntax:
+     
+     def __str__(self):
+     return "Message"
+
+3) __add__():
+  when we want to perform operations between multiple objects property.
+
+  when we call + (addition operations) this magic method invoke
+  automatically.
+
+4) __len__():
+  whenever we want to extract length of object we can use len 
+  magic methods.  
+
+5) __getitem__():
+  getitem which is used to acess properties of dictionary
+  using of index wise.
+
+-------------------------------------------------------------------
 
 
      
